@@ -1,0 +1,38 @@
+{
+    "name": "Black",
+    "author": "Aemiii91",
+    "description": "Minimalist theme inspired by Analogue OS",
+    "hideIconTitle": false,
+    "batteryPercentage": {
+        "visible": true,
+        "color": "#FFFFFF"
+    },
+    "title": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "vcr-osd-mono.ttf",
+        "size": 18,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#333333"
+    },
+    "total": {
+        "color": "#FFFFFF"
+    },
+    "grid": {
+        "font": "vcr-osd-mono.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#333333",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/wqy-microhei.ttc",
+        "size": 24,
+        "color": "#FFFFFF"
+    }
+}

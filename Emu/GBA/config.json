@@ -1,0 +1,42 @@
+{
+"label":"GBA",
+"icon":"gba.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/GBA",
+"imgpath":"../../Roms/GBA/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gba|zip|7z",
+"launchlist": [
+{
+"name": "gpsp_plus_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "mgba_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "gpsp_libretro",
+"launch": "launch2.sh"
+},
+{
+"name": "mednafen_gba_libretro",
+"launch": "launch3.sh"
+},
+{
+"name": "meteor_libretro",
+"launch": "launch4.sh"
+},
+{
+"name": "vbam_libretro",
+"launch": "launch5.sh"
+},
+{
+"name": "vba_next_libretro",
+"launch": "launch6.sh"
+}
+]
+}
+

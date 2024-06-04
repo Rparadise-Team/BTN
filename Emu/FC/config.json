@@ -1,0 +1,21 @@
+{
+"label":"NES",
+"icon":"nes.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FC",
+"imgpath":"../../Roms/FC/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"nes|zip|7z",
+"launchlist": [
+{
+"name": "fceumm_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "nestopia_libretro",
+"launch": "launch1.sh"
+}
+]
+}                                                                                                        

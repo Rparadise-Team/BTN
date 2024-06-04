@@ -1,0 +1,21 @@
+{
+"label":"MSDOS",
+"icon":"dos.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/DOS",
+"imgpath":"../../Roms/DOS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"zip|dosz|exe|com|bat|iso|cue|vhd|m3u|7z",
+"launchlist": [
+{
+"name": "dosbox_pure_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "dosbox_pure_0.9.7_libretro",
+"launch": "launch1.sh"
+}     
+]
+}                                                                                                  

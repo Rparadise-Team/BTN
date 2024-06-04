@@ -1,0 +1,10 @@
+{
+    "name":"sweet",
+		"batteryPercentage":{
+		"visible":true,
+        "red":188,
+        "green":255,
+        "blue":180
+    },
+    "fontsize":26
+}

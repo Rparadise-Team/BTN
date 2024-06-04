@@ -1,0 +1,25 @@
+{
+"label":"GG",
+"icon":"gg.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/GG",
+"imgpath":"../../Roms/GG/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gg|zip|7z",
+"launchlist": [
+{
+"name": "picodrive_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "genesis_plus_gx_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "gearsystem_libretro",
+"launch": "launch2.sh"
+}
+]
+}                                                                                                        

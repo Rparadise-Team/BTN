@@ -1,0 +1,23 @@
+{
+	"70":	"Reiniciar",
+	"88":	"Elegir",
+	"89":	"Atrás",
+	"90":	"NAV",
+	"91":	"Menú",
+	"92":	"Continuar",
+	"93":	"Guardar",
+	"94":	"Cargar",
+	"95":	"Volumen",
+	"96":	"Salir del juego",
+	"97":	"Ranura %d/%d",
+	"98":	"Vacío",
+	"99":	"Sin imágenes",
+	"100":	"Error al cargar",
+	"101":	"Error al guardar",
+	"102":	"Partida %d guardada",
+	"103":	"Pantalla completa",
+	"104":	"Encendido",
+	"105":	"Apagado",
+	"106":  "RetroArch",
+	"135":  "Netplay"
+}

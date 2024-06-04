@@ -1,0 +1,7 @@
+{
+"label":"RTC CLOCK",
+"icon":"rtc.png",
+"iconsel":"rtc_sel.png",
+"launch":"launch.sh",
+"description":"Set RTC time"
+}

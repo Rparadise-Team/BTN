@@ -1,0 +1,136 @@
+Hola a tod@s.
+
+Os presentamos la "imagen" BETTER THAN NOTHING (BTN) para la consola Miyoo A30 basada en el sistema de stock de Miyoo.
+
+Lo primero de todo dar las GRACIAS a Miyoo por cedernos unas unidades para desarrollo, también a NinohFox que siempre está para echar una mano y a Thundertwin por los testeos.
+
+INSTALACIÓN LIMPIA
+
+- Copiar el contenido del archivo "Better Than Nothing (BTN) beta version 1.7z" (lo que viene siendo descomprimir de toda la vida) en una tarjeta Micro-SD formateada en FAT32 con tamaño de asignación 32.
+- Una vez que se haya descomprimido todo, poner la tarjeta en la consola y encenderla. Arrancará con una pantalla indicando que está preparando el primer arranque (crea el archivo de memoria cache), después una pantalla con el nombre de la imagen y acto seguido saltará al menú principal del sistema. Una vez hecho esto hay que apagar la consola, después pasar los juegos a la tarjeta y listo.
+
+INSTALACIÓN SI SE VIENE DE UNA VERSIÓN ANTERIOR
+
+- En el caso de tener partidas guardadas, hacer una copia de seguridad de las carpetas "saves" y "states" que están en la ruta "\Retroarch\.retroarch\" de la tarjeta Micro-SD .
+- Eliminar todo el contenido de la tarjeta Micro-SD excepto la carpeta "Roms" para mantener los mismos juegos.
+- Copiar el contenido del archivo "Better Than Nothing (BTN) beta version 1.7z" (lo que viene siendo descomprimir de toda la vida).
+- Meter la copia de seguridad de las partidas guardadas.
+- Poner la consola y encenderla.
+- Arrancará con una pantalla indicando que está preparando el primer arranque (crea el archivo de memoria cache), después una pantalla con el nombre de la imagen y acto seguido saltará al menú principal del sistema.
+
+Las BIOS no vienen incluídas por lo que hay que meterlas más las roms con sus escrapeos. En principio esta imagen funciona perfectamente con los rom packs de BOM (Brothers of Metal) pero cada uno puede meter las roms que quiera. En el caso de no usar los packs de BOM, tener en cuenta que los escrapeos van en una carpeta llamada "Imgs" que hay dentro de cada una de las carpetas de los sistemas que hay dentro de la carpeta "ROMS". El escrapeo debe llevar el mismo nombre que la rom y estar en formato "png". 
+Se recomienda que los escrapeos tengan una resolución máxima de 320x240 para evitar problemas de rendimiento.
+
+-------------------------------------------------------------------------------------------------------------------
+
+SISTEMAS INCLUÍDOS:
+
+AMIGA, AMSTRAD CPC, ARCADE, ATARI2600, ATARI5200, ATARI7800, COMMODORE64, CPS1, CPS2, CPS3, DREAMCAST, DOOM, MS-DOS, FBNEO, NES, FAMILY DISK SYSTEM, GAME BOY, GAME BOY COLOR, GAME BOY ADVANCE, GAME GEAR, GAME & WATCH, LYNX, MEGADRIVE, MASTER SYSTEM, MSU-1, MSUMD, MSX, NINTENDO64, NEOGEO, NEOGEOCD, NEO GEO POCKET, ODYSSEY2, PCENGINE, PCENGINECD, PICO-8, POKEMON MINI, PSP, PSX, QUAKE, SCUMMVM, SEGA 32X, SEGA CD, SG-1000, SUPER NINTENDO, SUPER GAME BOY, SUPERVISION, TIC-80, VIRTUAL BOY, WOLF3D, WONDERSWAN, X68000 Y ZX SPECTRUM.
+
+-------------------------------------------------------------------------------------------------------------------
+
+1.) CONTROLES EN EL SISTEMA OPERATIVO MIYOO:
+
+* Estando en el menú principal:
+
+- DPAD: Moverse por los menús.
+- HOME - Muestra un menú para buscar roms por nombre y para refrescar los listados de roms.
+- A/Y: Ok.
+- B: Atrás/volver.
+- SELECT: Buscar roms por nombre.
+- L2 y R2: Desplazamiento rápido.
+- START + L1/R1: Regular el brillo.
+- SELECT + L1/R1: Regular el volumen.
+
+* Estando en el listado de juegos de un sistema:
+
+- DPAD: Moverse por el listado.
+- HOME: Mostrar menú para abrir el juego, agregarlo como favorito o eliminarlo.
+- X: Cambiar core para usar con el juego (no guarda la selección).
+- A/Y: Ok.
+- B: Atrás/volver.
+- SELECT: Buscar roms por nombre.
+- L2 y R2: Desplazamiento rápido.
+- START + L1/R1: Regular el brillo.
+- SELECT + L1/R1: Regular el volumen.
+
+2.) CONTROLES EN RETROARCH (HOTKEYS):
+
+- HOME + A: Pausa
+- HOME + B: Avance Rápido (se recomienda no usar en PS1, puede dar problemas de rendimiento).
+- HOME + Y: Mostrar/ocultar FPS.
+- HOME + X: Menú de Miyoo (desde aquí se puede guardar y cargar las partidas).
+- HOME + L1: Cargar Savestate.
+- HOME + R1: Grabar Savestate.
+- HOME + L2: Retroceder slot de Savestate.
+- HOME + R2: Avanzar slot de Savestate.
+- HOME + START: Salir del juego (hace la misma función que si se sale desde el menú de Miyoo).
+- START + L1/R1: Regular el brillo.
+- SELECT + L1/R1: Regular el volumen.
+
+* ATAJOS EXTRAS PARA CIERTOS SISTEMAS:
+
+- GAME BOY: Con R2 y L2 se alterna la paleta de colores y con R1 se acelera el juego.
+
+- GAME BOY COLOR: Con R1 se acelera el juego.
+
+- GAME BOY ADVANCE: Con R2 se acelera el juego.
+
+- ARCADE: Con R2 se abre el menú de configuración pudiendo cambiar los switches o activar trucos entre otras opciones.
+
+- NEO GEO Y NEOGEO CD: A+B+C: Se tiene que pulsar en la pantalla de Universal Bios, se puede cambiar la región, la configuración de la BIOS y otras opciones. Select + Start o Start + A + B + C: Se accede al menú in game donde se pueden activar los trucos.
+Start durante unos segundos: Se accede al menú de switches del juego (este solo para Neo Geo).
+Por otra parte, a la hora de cargar una partida al iniciar el juego, hacerlo después de la pantalla de
+carga de Unibios, sino se corromperá la partida, aunque se puede volver a cargar sin problema si se sale del juego y se vuelve a entrar.
+
+- CAPCOM (CPS1, CPS2 Y CPS3): Se han podido aprovechar los archivos de Switches de BOM y aunque no se pueden cambiar con FBA sí que los lee por lo que tenemos ya los juegos que lo permiten en castellano como el Alien Vs Predator o el primer D&D, y en otros como el Sfa 3 la dificultad bien puesta y los créditos a uno por partida.
+
+-------------------------------------------------------------------------------------------------------------------
+
+INFORMACIÓN DE INTERÉS:
+
+- El sistema se ha configurado con la velocidad de la CPU por defecto pero en algunos cores más demandantes se ha aplicado una subida para mejorar el rendimiento y que funcionen correctamente.
+
+- En sistemas como DC, PSP, N64 y NDS no se recomienda jugar durante periodos largos ya que la consola se calienta y realmente no están hechos para jugar en esta consola.
+
+- Se ha podido incorporar la mayoría de remapeos de BOM, como son los golpes debiles en los gatillos en los juegos de seis botones, así como las modificaciones de switches (sangre roja en Metal Slug, por ejemplo), y configuraciones para juegos verticales en arcade. Aún así puede haber problemas al ser un sistema distinto con sus peculiaridades.
+
+- Los microordenadores no se han podido afinar debido a que los mapeos heredados de BOM (y estos a su vez del trabajo de otros compañeros como Michel, Manic Miner o Angelete) no funcionan igual en la A30 y el adaptarlos y corregirlos, sería un trabajo colosal para el tiempo que podemos dedicarlo, por lo que aquí sintiendolo mucho, los interesados deberán apañarlos ellos.
+
+- Recordar que se puede alternar los cores a la hora de cargar un juego. Si un juego no rinde bien con un core, probar otro. El sistema de Miyoo no permite guardar la asignación de los cores (es algo que no podemos remediar).
+En Arcade por defecto carga los juegos con el core "mame2003_plus_libretro" pero habrá juegos que necesiten usar otros. Para juegos demandantes se puede usar el core "km_mame2003_xtreme_libretro" y también es probable que para otros haya que usar "fbneo_libretro". Esto ya es cosa de probar.
+
+- Se ha comprobado que al salir del modo "sleep", tanto la la música de fondo como la iluminación de la pantalla no vuelven a los valores por defecto (no es fallo de la imagen, es algo de la propia consola).
+
+- Si el control analógico tiene "drift" se recomienda calibrarlo en los ajustes del sistema hasta que funcione correctamente.
+
+-------------------------------------------------------------------------------------------------------------------
+
+LISTADO DE CAMBIOS (ACTUALIZACIÓN 1) - 28/05/2024
+
+- Sistema operativo actualizado con los últimos archivos de Miyoo.
+- Se mantienen los valores de pantalla que vienen por defecto.
+- Se ha actualizado el theme "ATC SMB" y se ha sustituido la fuente para poder visualizar correctamente los idiomas asiáticos.
+- Se han agregado los idiomas asiáticos que venían de fábrica.
+- Se ha actualizado el core "gpsp_plus" de RetroArch (con soporte a vibración).
+- Se ha quitado la carga de la bios en los cores de GBA.
+- Se ha agregado la aplicación "GMU" (Reproductor de música) en Apps.
+- Se han personalizado los iconos de la pestaña "Apps".
+- Se ha añadido el theme "FoundationV2" (el que viene por defecto en la última actualización de Miyoo).
+- Se ha actualizado la aplicación "Commander".
+- Se ha habilitado el control analógico en Atari Lynx y Pico-8.
+- Se ha puesto el filtrod "grid3x" en los cores de Pico-8
+- Se ha añadido el core "pcsx_rearmed_a30_libretro.so" actualizado.
+- Se ha añadido el core "fbneo_a30_libretro.so" actualizado.
+- Se ha creado el sistema "FBNEO" con su carpeta de roms correspondiente.
+- Se ha añadido el core "fbneo_a30_libretro.so" como core alternativo en "ARCADE".
+- Se ha añadido el core "swanstation_libretro.so" para PSX.
+- Se ha configurado rendimiento de la cpu de la consola en todos los sistemas con el fin de de ahorrar la máxima batería posible.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Eso es todo. Cualquier cosa, por favor, escribirnos. Esta "imagen" es para que podáis tener la mejor experiencia posible con el software de stock hasta que podamos adaptar Koriki.
+
+Ahora solo queda.... ¡JUGAR Y DISFRUTAR!
+
+Alber y Juanma.

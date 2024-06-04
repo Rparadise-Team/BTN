@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <game id="39873">
+    <path>./1941.zip</path>
+    <name>1941: Counter Attack</name>
+  </game>
+  <game id="37360">
+    <path>./dino.zip</path>
+    <name>Cadillacs and Dinosaurs</name>
+  </game>
+  <game id="37358">
+    <path>./captcomm.zip</path>
+    <name>Captain Commando</name>
+  </game>
+  <game id="37359">
+    <path>./cawing.zip</path>
+    <name>Carrier Air Wing</name>
+  </game>
+  <game id="41078">
+    <path>./dynwar.zip</path>
+    <name>Dynasty Wars</name>
+  </game>
+  <game id="37362">
+    <path>./ffight.zip</path>
+    <name>Final Fight</name>
+  </game>
+  <game id="37363">
+    <path>./forgottn.zip</path>
+    <name>Forgotten Worlds</name>
+  </game>
+  <game id="41441">
+    <path>./ghouls.zip</path>
+    <name>Ghouls'n Ghosts</name>
+  </game>
+  <game id="42020">
+    <path>./knights.zip</path>
+    <name>Knights of the Round</name>
+  </game>
+  <game id="57920">
+    <path>./msword.zip</path>
+    <name>Magic Sword: Heroic Fantasy</name>
+  </game>
+  <game id="78892">
+    <path>./megaman.zip</path>
+    <name>Mega Man: The Power Battle</name>
+  </game>
+  <game id="37371">
+    <path>./mtwins.zip</path>
+    <name>Mega Twins</name>
+  </game>
+  <game id="78903">
+    <path>./mercs.zip</path>
+    <name>Mercs</name>
+  </game>
+  <game id="37367">
+    <path>./mbombrd.zip</path>
+    <name>Muscle Bomber Duo : Ultimate Team Battle</name>
+  </game>
+  <game id="37372">
+    <path>./nemo.zip</path>
+    <name>Nemo</name>
+  </game>
+  <game id="37373">
+    <path>./pang3.zip</path>
+    <name>Pang! 3</name>
+  </game>
+  <game id="37374">
+    <path>./pnickj.zip</path>
+    <name>Pnickies</name>
+  </game>
+  <game id="42583">
+    <path>./qad.zip</path>
+    <name>Quiz &amp; Dragons: Capcom Quiz Game</name>
+  </game>
+  <game id="37379">
+    <path>./slammast.zip</path>
+    <name>Saturday Night Slam Masters</name>
+  </game>
+  <game id="37377">
+    <path>./sf2ce.zip</path>
+    <name>Street Fighter II' : Champion Edition</name>
+  </game>
+  <game id="37378">
+    <path>./sf2hf.zip</path>
+    <name>Street Fighter II' : Hyper Fighting</name>
+  </game>
+  <game id="42982">
+    <path>./sf2.zip</path>
+    <name>Street Fighter II : The World Warrior</name>
+  </game>
+  <game id="37380">
+    <path>./strider.zip</path>
+    <name>Strider</name>
+  </game>
+  <game id="37366">
+    <path>./kod.zip</path>
+    <name>The King of Dragons</name>
+  </game>
+  <game id="37375">
+    <path>./punisher.zip</path>
+    <name>The Punisher</name>
+  </game>
+  <game id="37357">
+    <path>./3wonders.zip</path>
+    <name>Three Wonders</name>
+  </game>
+  <game id="43837">
+    <path>./unsquad.zip</path>
+    <name>U.N. Squadron</name>
+  </game>
+  <game id="37382">
+    <path>./varth.zip</path>
+    <name>Varth: Operation Thunderstorm</name>
+  </game>
+  <game id="44111">
+    <path>./wof.zip</path>
+    <name>Warriors of Fate</name>
+  </game>
+  <game id="37383">
+    <path>./willow.zip</path>
+    <name>Willow</name>
+  </game>
+</gameList>

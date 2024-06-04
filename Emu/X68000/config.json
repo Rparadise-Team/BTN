@@ -1,0 +1,11 @@
+{
+"label":"X68000",
+"icon":"x68000.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/X68000",
+"imgpath":"../../Roms/X68000/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"dim|zip|img|d88|88d|hdm|dup|2hd|xdf|hdf|cmd|m3u|7z"
+}                                                                                                        

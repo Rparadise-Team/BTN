@@ -1,0 +1,26 @@
+{
+"label":"CPS2",
+"icon":"cps2.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPS2",
+"imgpath":"../../Roms/CPS2/Imgs",
+"gamelist":	"../../.config/gamelist/gamelistCPS2.xml",
+"useswap":0,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip",
+"launchlist": [
+{
+"name": "fbalpha2012_cps2_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "fbneo_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "fbalpha_libretro",
+"launch": "launch2.sh"
+}
+]
+}                                                                                             

@@ -1,0 +1,21 @@
+{
+"label":"A5200",
+"icon":"5200.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FIFTYTWOHUNDRED",
+"imgpath":"../../Roms/FIFTYTWOHUNDRED/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"bin|a52|zip|7z",
+"launchlist": [
+{
+"name": "a5200_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "atari800_libretro",
+"launch": "launch1.sh"
+}
+]
+}                                                                                                        

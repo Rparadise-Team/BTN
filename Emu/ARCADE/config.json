@@ -1,0 +1,51 @@
+{
+"label":"ARCADE",
+"icon":"arcade.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ARCADE",
+"imgpath":"../../Roms/ARCADE/Imgs",
+"gamelist":	"../../.config/gamelist/gamelistARCADE.xml",
+"useswap":0,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip",
+"launchlist": [
+{
+"name": "mame2003_plus_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "fbneo_a30_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "fbneo_libretro",
+"launch": "launch2.sh"
+},
+{
+"name": "fbalpha2012_libretro",
+"launch": "launch3.sh"
+},
+{
+"name": "km_mame2003_xtreme_libretro",
+"launch": "launch4.sh"
+},
+{
+"name": "mame2000_libretro",
+"launch": "launch5.sh"
+},
+{
+"name": "mame2010_libretro",
+"launch": "launch6.sh"
+},
+{
+"name": "mame2003_libretro",
+"launch": "launch7.sh"
+},
+{
+"name": "mame2003_xtreme_libretro",
+"launch": "launch8.sh"
+}
+]
+}
+

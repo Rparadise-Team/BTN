@@ -1,0 +1,12 @@
+{
+"label":"NEC - PC-E CD",
+"icon":"mednafen_pce_cd.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/PCECD",
+"imgpath":"../../Roms/PCECD/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

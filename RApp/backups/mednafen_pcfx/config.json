@@ -1,0 +1,12 @@
+{
+"label":"NEC - PC-FX",
+"icon":"mednafen_pcfx.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/PCFX",
+"imgpath":"../../Roms/PCFX/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

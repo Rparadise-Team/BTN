@@ -1,0 +1,11 @@
+{
+"label":"A7800",
+"icon":"7800.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEVENTYEIGHTHUNDRED",
+"imgpath":"../../Roms/SEVENTYEIGHTHUNDRED/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"bin|a78|zip|7z"
+}                                                                                                        
