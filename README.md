@@ -13,7 +13,6 @@ It is recommended that scrapes have a maximum resolution of 320x240 to avoid per
 
 AMIGA, AMSTRAD CPC, ARCADE, ATARI2600, ATARI5200, ATARI7800, COMMODORE64, CPS1, CPS2, CPS3, DREAMCAST, DOOM, MS-DOS, FBNEO, NES, FAMILY DISK SYSTEM, GAME BOY, GAME BOY COLOR, GAME BOY ADVANCE, GAME GEAR, GAME & WATCH, LYNX, MEGADRIVE, MASTER SYSTEM, MSU-1, MSUMD, MSX, NINTENDO64, NEOGEO, NEOGEOCD, NEO GEO POCKET, ODYSSEY2, PCENGINE, PCENGINECD, PICO-8, POKEMON MINI, PSP, PSX, QUAKE, SCUMMVM, SEGA 32X, SEGA CD, SG-1000, SUPER NINTENDO, SUPER GAME BOY, SUPERVISION, TIC-80, VIRTUAL BOY, WOLF3D, WONDERSWAN, X68000 and ZX SPECTRUM.
 
-This is a BETA version. As firmware updates will be released from Miyoo, we will do everything possible to refine the image as much as possible.
-Anything you detect, please tell us.
+This is a BETA version. As firmware updates will be released from Miyoo, we will do everything possible to refine the image as much as possible. Anything you detect, please tell us.
 
 Rparadise Team.
