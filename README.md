@@ -20,6 +20,6 @@ AMIGA, AMSTRAD CPC, ARCADE, ATARI2600, ATARI5200, ATARI7800, COMMODORE64, CPS1, 
 
 This is a BETA version. As firmware updates will be released from Miyoo, we will do everything possible to refine the image as much as possible. Anything you detect, please tell us.
 
-To download the image click on this link: To download the image click on this link: https://github.com/Rparadise-Team/BTN/releases
+To download click on this link: https://github.com/Rparadise-Team/BTN/releases
 
 Rparadise Team.
