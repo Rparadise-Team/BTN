@@ -8,6 +8,7 @@ Hello everyone:
 This image does NOT have games or bios.
 Please note that the scrapes should be placed in a folder named "Imgs" inside each system folder within the "ROMS" directory (Roms/Imgs). The scrape should have the same name as the ROM and be in "png" format.
 It is recommended that scrapes have a maximum resolution of 320x240 to avoid performance issues.
+The "bios" files must be placed in the path "/RetroArch/.retroarch/system".
 
 <strong><u> HOW TO INSTALL</u></strong>
 
