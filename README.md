@@ -10,11 +10,6 @@ Please note that the scrapes should be placed in a folder named "Imgs" inside ea
 It is recommended that scrapes have a maximum resolution of 320x240 to avoid performance issues.
 The "bios" files must be placed in the path "/RetroArch/.retroarch/system".
 
-<strong><u> HOW TO INSTALL</u></strong>
-
-- Copy the contents of the "Better Than Nothing (BTN) beta version 1" file to a Micro-SD card formatted in FAT32 with allocation size 32.
-- Put the card in the console and turn it on. It will boot with a screen indicating that it is preparing the first boot (creates the cache memory file), then a screen with the name of the image and then it will jump to the main system menu. Once this is done, you have to turn off the console, then transfer the games to the card and that's it.
-
 <strong>INCLUDED SYSTEMS</strong>
 
 AMIGA, AMSTRAD CPC, ARCADE, ATARI2600, ATARI5200, ATARI7800, COMMODORE64, CPS1, CPS2, CPS3, DREAMCAST, DOOM, MS-DOS, FBNEO, NES, FAMILY DISK SYSTEM, GAME BOY, GAME BOY COLOR, GAME BOY ADVANCE, GAME GEAR, GAME & WATCH, LYNX, MEGADRIVE, MASTER SYSTEM, MSU-1, MSUMD, MSX, NINTENDO64, NEOGEO, NEOGEOCD, NEO GEO POCKET, ODYSSEY2, PCENGINE, PCENGINECD, PICO-8, POKEMON MINI, PSP, PSX, QUAKE, SCUMMVM, SEGA 32X, SEGA CD, SG-1000, SUPER NINTENDO, SUPER GAME BOY, SUPERVISION, TIC-80, VIRTUAL BOY, WOLF3D, WONDERSWAN, X68000 and ZX SPECTRUM.
