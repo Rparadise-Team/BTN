@@ -1,0 +1,29 @@
+{
+"label":"PSX",
+"icon":"ps.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PS",
+"imgpath":"../../Roms/PS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"pbp|chd|cue|img|iso|m3u|mdf|zip",
+"launchlist": [
+{
+"name": "pcsx_rearmed_a30_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "pcsx_rearmed_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "swanstation_libretro",
+"launch": "launch2.sh"
+},
+{
+"name": "pcsx_standalone",
+"launch": "launch3.sh"
+}
+]
+}                                                                                                    
