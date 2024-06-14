@@ -68,7 +68,7 @@ To load a save state when starting a game, do so after the Unibios loading scree
 
 ### **IMPORTANT INFORMATION**
 
-- For systems like DC, PSP, N64 it is not recommended to play for long periods as the console heats up, and these systems are not really meant to be played on this console.
+- For systems like DC, PSP, N64 and NDS it is not recommended to play for long periods as the console heats up, and these systems are not really meant to be played on this console.
 - Remember that you can switch cores when loading a game. If a game doesn't perform well with one core, try another. The Miyoo system does not allow saving core assignments (something we cannot remedy).
 By default, Arcade loads games with the "mame2003_plus_libretro" core, but some games may need others. For demanding games, use the "km_mame2003_xtreme_libretro" core, and for others, "fbneo_libretro" may be necessary. This requires experimentation.
 - After exiting sleep mode, both background music and screen brightness do not return to default values (this is not an image fault but a console issue).
