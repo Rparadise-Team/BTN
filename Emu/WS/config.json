@@ -1,0 +1,11 @@
+{
+"label":"WS",
+"icon":"ws.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/WS",
+"imgpath":"../../Roms/WS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"wsc|ws|zip|7z"
+}                                                                                                        

@@ -1,0 +1,12 @@
+{
+"label":"SEGA - Mega CD",
+"icon":"picodrive_cd.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEGACD",
+"imgpath":"../../Roms/SEGACD/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

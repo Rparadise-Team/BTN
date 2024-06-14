@@ -1,0 +1,12 @@
+{
+"label":"Microsoft - MSX",
+"icon":"bluemsx.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/MSX",
+"imgpath":"../../Roms/MSX/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

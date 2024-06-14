@@ -1,0 +1,7 @@
+{
+"label":"RETROARCH",
+"icon":"retroarch.png",
+"iconsel":"retroarch_sel.png",
+"launch":"launch.sh",
+"description":"Set Up RetroArch from here"
+}

@@ -1,0 +1,25 @@
+{
+"label":"SEGACD",
+"icon":"segacd.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEGACD",
+"imgpath":"../../Roms/SEGACD/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"bin|chd|cue",
+"launchlist": [
+{
+"name": "picodrive_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "genesis_plus_gx_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "picodrive_standalone",
+"launch": "launch2.sh"
+}
+]
+}                                                                                                     

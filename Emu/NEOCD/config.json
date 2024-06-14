@@ -1,0 +1,11 @@
+{
+"label":"NEOCD",
+"icon":"neocd.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/NEOCD",
+"imgpath":"../../Roms/NEOCD/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"chd|zip"
+}                                                                                                        

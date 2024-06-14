@@ -1,0 +1,11 @@
+{
+"label":"A2600",
+"icon":"a2600.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ATARI",
+"imgpath":"../../Roms/ATARI/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"bin|a26|zip|7z"
+}                                                                                                        

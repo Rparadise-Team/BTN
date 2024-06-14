@@ -1,0 +1,12 @@
+{
+"label":"SEGA - Master System",
+"icon":"sms_plus_gx.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/MS",
+"imgpath":"../../Roms/MS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gen|md|smd|32x|zip|bin|sms|rom|gg|sg"
+}

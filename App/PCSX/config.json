@@ -1,0 +1,7 @@
+{
+"label":"PCSX",
+"icon":"pcsx.png",
+"iconsel":"pcsx_sel.png",
+"launch":"launch.sh",
+"description":"PCSX Standalone Emulator"
+}

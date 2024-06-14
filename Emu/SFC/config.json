@@ -1,0 +1,41 @@
+{
+"label":"SNES",
+"icon":"snes.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SFC",
+"imgpath":"../../Roms/SFC/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"smc|sfc|zip|7z",
+"launchlist": [
+{
+"name": "snes9x2005_plus_libretro",
+"launch": "launch.sh"
+},
+{
+"name": "snes9x2005_libretro",
+"launch": "launch1.sh"
+},
+{
+"name": "snes9x2002_libretro",
+"launch": "launch2.sh"
+},
+{
+"name": "snes9x2010_libretro",
+"launch": "launch3.sh"
+},
+{
+"name": "snes9x_libretro",
+"launch": "launch4.sh"
+},
+{
+"name": "mednafen_supafaust_libretro",
+"launch": "launch5.sh"
+},
+{
+"name": "PocketSNES standalone",
+"launch": "launch6.sh"
+}
+]
+}                                                                                                        

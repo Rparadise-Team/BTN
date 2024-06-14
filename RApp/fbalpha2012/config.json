@@ -1,0 +1,12 @@
+{
+"label":"Arcade - FBA 2012",
+"icon":"fbalpha2012.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/ARCADE",
+"imgpath":"../../Roms/ARCADE/Imgs",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

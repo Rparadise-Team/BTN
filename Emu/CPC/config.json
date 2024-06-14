@@ -1,0 +1,11 @@
+{
+"label":"AMSTRAD",
+"icon":"cpc.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPC",
+"imgpath":"../../Roms/CPC/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"dsk|sna|tap|cdt|voc|cpr|m3u|zip|7z"
+}                                                                                                        

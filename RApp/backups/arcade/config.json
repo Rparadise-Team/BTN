@@ -1,0 +1,12 @@
+{
+"label":"Arcade - Auto",
+"icon":"fbneo.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/ARCADE",
+"imgpath":"../../Roms/ARCADE/Imgs",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

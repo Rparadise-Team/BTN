@@ -1,0 +1,7 @@
+{
+	"label":        "LED SWITCH",
+	"icon":	        "led.png",
+	"iconsel":      "led_sel.png",
+	"launch":       "launch.sh",
+	"description":  "Turn ON/OFF Blue Led"
+}
