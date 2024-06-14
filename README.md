@@ -5,14 +5,17 @@
 
 Hello everyone:
 
-This image does NOT have games or bios.
+First of all, THANK YOU to Miyoo for giving us some units for development, also to Ninoh_FOX for the standalone emulators and the LED script and to Steward Fu for the Drastic emulator and the SORR 5.2 port.
+
+This image does NOT have games or bios. The "bios" files must be placed in the path "/RetroArch/.retroarch/system" and if you use PCSX and Picodrive standalone emulators, you will also have to put it in their corresponding folders.
+
 Please note that the scrapes should be placed in a folder named "Imgs" inside each system folder within the "ROMS" directory (Roms/Imgs). The scrape should have the same name as the ROM and be in "png" format.
 It is recommended that scrapes have a maximum resolution of 320x240 to avoid performance issues.
-The "bios" files must be placed in the path "/RetroArch/.retroarch/system".
+
 
 ### **INCLUDED SYSTEMS**
 
-AMIGA, AMSTRAD CPC, ARCADE, ATARI2600, ATARI5200, ATARI7800, COMMODORE64, CPS1, CPS2, CPS3, DREAMCAST, DOOM, MS-DOS, FBNEO, NES, FAMILY DISK SYSTEM, GAME BOY, GAME BOY COLOR, GAME BOY ADVANCE, GAME GEAR, GAME & WATCH, LYNX, MEGADRIVE, MASTER SYSTEM, MSU-1, MSUMD, MSX, NINTENDO64, NEOGEO, NEOGEOCD, NEO GEO POCKET, ODYSSEY2, PCENGINE, PCENGINECD, PICO-8, POKEMON MINI, PSP, PSX, QUAKE, SCUMMVM, SEGA 32X, SEGA CD, SG-1000, SUPER NINTENDO, SUPER GAME BOY, SUPERVISION, TIC-80, VIRTUAL BOY, WOLF3D, WONDERSWAN, X68000 and ZX SPECTRUM.
+AMIGA, AMSTRAD CPC, ARCADE, ATARI2600, ATARI5200, ATARI7800, COMMODORE64, CPS1, CPS2, CPS3, DREAMCAST, DOOM, MS-DOS, FBNEO, NES, FAMILY DISK SYSTEM, GAME BOY, GAME BOY COLOR, GAME BOY ADVANCE, GAME GEAR, GAME & WATCH, LYNX, MEGADRIVE, MASTER SYSTEM, MSU-1, MSUMD, MSX, NINTENDO64, NINTENDO DS, NEOGEO, NEOGEOCD, NEO GEO POCKET, ODYSSEY2, PCENGINE, PCENGINECD, PICO-8, POKEMON MINI, PSP, PSX, QUAKE, SCUMMVM, SEGA 32X, SEGA CD, SG-1000, SUPER NINTENDO, SUPER GAME BOY, SUPERVISION, TIC-80, VIRTUAL BOY, WOLF3D, WONDERSWAN, X68000 and ZX SPECTRUM.
 
 ### **CONTROLS IN THE MIYOO OPERATING SYSTEM**
 
