@@ -1,0 +1,7 @@
+{
+"label":"PICO-8 NORMAL SCREEN",
+"icon":"pico-8.png",
+"launch":"script/launch.sh",
+"iconsel":"pico-8_sel.png",
+"description":"Pico-8 Standalone Emulator"
+}

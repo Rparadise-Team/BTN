@@ -1,0 +1,13 @@
+sh: setterm: not found
+[SDL2] A30_JoystickInit
+[SDL2] A30_JoystickOpen
+Unexpected controller element platform
+MALI_CreateWindow:0x20000001 done.
+Invalid audio device ID
+Invalid audio device ID
+Invalid audio device ID
+Invalid audio device ID
+Invalid audio device ID
+Invalid audio device ID
+sh: setterm: not found
+[SDL2] A30_JoystickClose
