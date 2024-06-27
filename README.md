@@ -91,7 +91,7 @@ _In mouse mode_
 
 ### **IMPORTANT INFORMATION**
 
-- For Pico-8 standalone emulator you need buy pico8 raspberry pi 32bit code and put pico8_dyn and pico8.dat in "App/Pico/bin" in your sdcard.
+- To make the standalone Pico-8 emulator work you need buy pico8 raspberry pi 32bit code and put "pico8_dyn" and "pico8.dat" in "App/pico/bin" in your MicroSD card.
 - For systems like DC, PSP, N64 and NDS it is not recommended to play for long periods as the console heats up, and these systems are not really meant to be played on this console.
 - Remember that you can switch cores when loading a game. If a game doesn't perform well with one core, try another. The Miyoo system does not allow saving core assignments (something we cannot remedy).
 By default, Arcade loads games with the "mame2003_plus_libretro" core, but some games may need others. For demanding games, use the "km_mame2003_xtreme_libretro" core, and for others, "fbneo_libretro" may be necessary. This requires experimentation.
