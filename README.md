@@ -66,8 +66,32 @@ _In a system's game list:_
 To load a save state when starting a game, do so after the Unibios loading screen to avoid corruption. If corruption occurs, you can reload the state after exiting and re-entering the game.
 - CAPCOM (CPS1, CPS2, AND CPS3): BOM's switch files have been used. Although FBA cannot change them, it can read them, so games like Alien vs Predator and the first D&D are in Spanish, while games like SFA 3 have proper difficulty and one-credit settings.
 
+### **PICO-8 STANDALONE EMULATOR CONTROLS**
+
+_In joypad mode:_
+
+- DPAD & STICK: Direction.
+- A: Button X.
+- B: Button O.
+- X: Escape (options).
+- HOME: Escape (options).
+- START: Option.
+- SELECT: Change to mouse mode.
+
+_In mouse mode_
+
+- STICK: Direction.
+- DPAD: Move mouse cursor.
+- A: Button X.
+- B: Button O.
+- X: Escape (options).
+- L2: Mouse button right.
+- R2: Mouse button left.
+- SELECT: Change to joypad mode.
+
 ### **IMPORTANT INFORMATION**
 
+- For Pico-8 standalone emulator you need buy pico8 raspberry pi 32bit code and put pico8_dyn and pico8.dat in "App/Pico/bin" in your sdcard.
 - For systems like DC, PSP, N64 and NDS it is not recommended to play for long periods as the console heats up, and these systems are not really meant to be played on this console.
 - Remember that you can switch cores when loading a game. If a game doesn't perform well with one core, try another. The Miyoo system does not allow saving core assignments (something we cannot remedy).
 By default, Arcade loads games with the "mame2003_plus_libretro" core, but some games may need others. For demanding games, use the "km_mame2003_xtreme_libretro" core, and for others, "fbneo_libretro" may be necessary. This requires experimentation.
