@@ -6,6 +6,7 @@
 "imgpath":"../../Roms/PSP/Imgs",
 "useswap":0,
 "shortname":0,
-"hidebios":0
+"hidebios":0,
+"extlist":"bin|cue|chd|iso|pbp|PBP|toc|cbn|m3u|"
 }
     
